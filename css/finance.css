@@ -1,0 +1,52 @@
+.stock-header {
+  height: 20em;
+  padding: 0;
+}
+
+.header-img {
+  height: 20em;
+  width: 100%;
+}
+
+.finance-body {
+  background: -webkit-linear-gradient(45deg, violet, white, yellow);
+  background: linear-gradient(45deg, violet, white, yellow);
+  margin: 0;
+  color: black;
+}
+
+
+#search-wrapper,
+.form-div,
+#search-stock {
+  text-align: center;
+}
+
+#search-wrapper {
+  margin-top: 3em;
+  margin-bottom: 3em;
+}
+
+#yahoo,
+#google,
+#goldman,
+#apple,
+#amazon,
+#jpm,
+#twitter,
+#facebook,
+#boa {
+  text-align: center;
+  color: black;
+}
+
+footer {
+  display: block;
+  margin-top: 4em;
+  font-size: 0.75em;
+  text-align: center;
+  padding-top: 2.5em;
+  color: black;
+}
+
+
